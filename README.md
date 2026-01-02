@@ -61,9 +61,22 @@ Companies lacking meaningful or sufficient financial data were excluded to preve
 
 <img src="dashboard_drivers.png" width="800">
 
-## 📂 How to View
-1. Download the `.twbx` file
-2. Open using **Tableau Public** or **Tableau Desktop**
+## 🔗 How to View
+- **Live Dashboard:** View the interactive dashboard on Tableau Public:  
+  https://public.tableau.com/your-dashboard-link
+
+- **Download Workbook:** 📦 Download the Tableau Packaged Workbook (`.twbx`) from the **Releases** section of this repository.
+
+## 📂 Repository Contents
+
+- **README.md** – Project overview, methodology, and insights
+- **images/** – Dashboard screenshots used for preview and documentation  
+  - `dashboard_overview.png` – Performance Overview dashboard  
+  - `dashboard_drivers.png` – Drivers & regression analysis dashboard  
+- **docs/**  
+  - `data_dictionary.pdf` – Definitions and descriptions of all fields used in the analysis  
+
+> The interactive Tableau workbook is published on **Tableau Public** and linked above for full exploration.
 
 ## 👤 Author
 Tristen Campayne  

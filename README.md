@@ -62,10 +62,11 @@ Companies lacking meaningful or sufficient financial data were excluded to preve
 <img src="images/dashboard_drivers.png" width="800">
 
 ## 🔗 How to View
-- **Live Dashboard:** View the interactive dashboard on Tableau Public:  
-  https://public.tableau.com/your-dashboard-link
-
-- **Download Workbook:** 📦 Download the Tableau Packaged Workbook (`.twbx`) from the **Releases** section of this repository.
+- **Live Dashboard:**  
+  [View on Tableau Public](https://public.tableau.com/views/Company_Performance_Dashboard/d1_PerformanceOverview)
+  
+- **Download Workbook:**  
+  📦 Download the Tableau Packaged Workbook (`.twbx`) from the **Releases** section of this repository.
 
 ## 📂 Repository Contents
 

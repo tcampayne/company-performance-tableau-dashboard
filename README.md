@@ -72,9 +72,10 @@ Companies lacking meaningful or sufficient financial data were excluded to preve
 - **README.md** – Project overview, methodology, and insights
 - **images/** – Dashboard screenshots used for preview and documentation  
   - `dashboard_overview.png` – Performance Overview dashboard  
-  - `dashboard_drivers.png` – Drivers & regression analysis dashboard  
+  - `dashboard_drivers.png` – Drivers dashboard  
 - **docs/**  
   - `data_dictionary.pdf` – Definitions and descriptions of all fields used in the analysis  
+  - `insights_recommendations.pdf` – Key findings, business recommendations, and limitations
 
 > The interactive Tableau workbook is published on **Tableau Public** and linked above for full exploration.
 

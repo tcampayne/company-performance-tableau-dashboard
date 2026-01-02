@@ -57,9 +57,9 @@ Companies lacking meaningful or sufficient financial data were excluded to preve
 
 ## 📷 Dashboard Preview
 
-<img src="dashboard_overview.png" width="800">
+<img src="images/dashboard_overview.png" width="800">
 
-<img src="dashboard_drivers.png" width="800">
+<img src="images/dashboard_drivers.png" width="800">
 
 ## 🔗 How to View
 - **Live Dashboard:** View the interactive dashboard on Tableau Public:  

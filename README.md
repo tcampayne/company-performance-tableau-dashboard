@@ -1,4 +1,4 @@
-# Company Performance Dashboard (Tableau)
+# FP&E Profitability & Competitive Trend Analysis Dashboard (Tableau)
 
 ## 📊 Overview
 An interactive Tableau dashboard analyzing 20+ years of company financial performance across industries. 

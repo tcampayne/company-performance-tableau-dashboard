@@ -1,4 +1,4 @@
-# FP&A Profitability & Market Competition Dashboard (Tableau)
+# FP&A Profitability & Market Trends Dashboard (Tableau)
 
 ## 📊 Overview
 An interactive Tableau dashboard analyzing 20+ years of company financial performance across industries. 
